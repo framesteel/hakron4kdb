@@ -1,4 +1,4 @@
-for use with github.com/oqpti/jenehsite
+for use with github.com/oqpti/hakron4kclient
 
 must have nodejs installed, and mongodb installed and running
 
